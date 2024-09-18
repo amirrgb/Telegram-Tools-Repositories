@@ -1,2 +1,0 @@
-# Telegram Responser Bot
-This project involves the development of an account application on Telegram, leveraging various libraries to automate the process of responding to messages as a normal Telegram account. The application can be used for a variety of purposes, including customer service and marketing, and allows for efficient and automated communication with users on the platform. The automation aspect of the application saves time and effort compared to manual messaging, while also ensuring reliable and timely responses.
