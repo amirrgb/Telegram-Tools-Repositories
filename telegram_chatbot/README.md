@@ -1,2 +1,2 @@
-# telegram_chatbot
+# Telegram Chat Bot
 This project involves the creation of Telegram bots, which offer a wide variety of functions and capabilities. With the flexibility of the Telegram bot platform, the bots can be customized and tailored to suit specific needs and use cases. From simple messaging to complex automated tasks, the bots offer a range of features for efficient and effective communication and interaction with users on the platform.
