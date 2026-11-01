@@ -1,8 +1,9 @@
+from getpass import getpass
 from aiogram import Bot, Dispatcher, executor, types
 #from aiogram.utils.emoji import emojize
 #from aiogram.utils.markdown import bold, code, italic, text
 from aiogram.types import ParseMode
-bot = Bot(token='5627008289:AAEUVDNVkUxWzq8C8GacH8OMiZf1WOK6-yU')
+bot = Bot(token=getpass('Telegram bot token: '))
 dp = Dispatcher(bot)
 print("start ....")
 @dp.message_handler(commands=['start','help'])
